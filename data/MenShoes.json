@@ -1,0 +1,285 @@
+{
+    "shoes" : [
+        {
+            "id": 1,
+            "name": "Nike Dunk Low Retro",
+            "price": 110,
+            "description": "From backboards to skateboards, the influence of the Nike Dunk is undeniable. Although introduced as a basketball shoe in 1985, its flat and grippy soles were perfect for a neglected sports community—skaters. Uncovering a subculture craving creativity as much as function, Dunk released decades of countless colorways that continue to capture the soul of skaters from coast to coast.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/51867688-277b-4615-ab39-876653f6b810/dunk-low-retro-mens-shoes-5FQWGR.png",
+            "thumbnails": [    
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-mens-shoes-5FQWGR.png",             
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-mens-shoes-5FQWGR.png",  
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-mens-shoes-5FQWGR.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-mens-shoes-5FQWGR.png"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Nike Air Force 1 '07",
+            "price" : 115,
+            "description": "Debuting in 1982, the AF1 was the first basketball shoe to house Nike Air, revolutionizing the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/057c2bbd-d065-44eb-913f-51dd4f98d680/air-force-1-07-mens-shoes-jBrhbr.png",
+            "thumbnails": [   
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d762c5e2-ae49-4208-99df-484594b51e5f/air-force-1-07-mens-shoes-jBrhbr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fcfed7da-5ef1-4949-a969-bf67c97d9fb8/air-force-1-07-mens-shoes-jBrhbr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb2488fe-1b41-4edb-8112-c78c167db8ed/air-force-1-07-mens-shoes-jBrhbr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3570fc97-5d2c-4c92-a71d-194fa93884f4/air-force-1-07-mens-shoes-jBrhbr.png"               
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Jordan Spizike Low",
+            "price" : 160,
+            "description": "The Spizike takes elements of four classic Jordans, combines them, and gives you one iconic sneaker. It's an homage to Spike Lee formally introducing Hollywood and hoops in a culture moment. You get a great looking pair of kicks with some history",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8ea34718-7299-46d4-9765-21952852f3de/jordan-spizike-low-mens-shoes-LDT8cp.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e84d9edc-cf4f-468c-b485-0b1bac862895/jordan-spizike-low-mens-shoes-LDT8cp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6e37b29-e0d9-4bb2-bafa-b767ef6e8944/jordan-spizike-low-mens-shoes-LDT8cp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c930a5fe-0be1-4cdb-bafc-f99133a3fbf8/jordan-spizike-low-mens-shoes-LDT8cp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/57189a9f-2d08-414f-a0b4-bff6e5e601b9/jordan-spizike-low-mens-shoes-LDT8cp.png"               
+            ]
+        },
+        {
+            "id": 4,
+            "name" :"Air Jordan 1 Mid",
+            "price" : 150,
+            "description":"Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/61012d23-cbb9-42d6-871d-bc634201f0aa/air-jordan-1-mid-mens-shoes-X5pM09.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4f864b95-0da2-4f66-b1c7-2cfb6e655bc6/air-jordan-1-mid-mens-shoes-X5pM09.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b497aee0-09c5-413e-9f79-df4d2ed999c3/air-jordan-1-mid-mens-shoes-X5pM09.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05204412-868d-40c4-b800-7acbe948a2c0/air-jordan-1-mid-mens-shoes-X5pM09.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cc7c531a-5ed2-4cb8-8446-f86a2f52fb56/air-jordan-1-mid-mens-shoes-X5pM09.png"         
+            ]
+        },
+        {
+            "id": 5,
+            "name" :"Air Jordan 3 Retro Craft",
+            "price" : 210,
+            "description":"Clean and supreme, the AJ3 returns. Pairing a smooth Ivory base with Grey Mist suede overlays and translucent accents on the heel tab and sole, this crafted edition ups the texture. It has dual branding on the heel and double Jumpman logos on the tongue—because twice the Jumpman is twice as nice.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/76543f5c-d339-40db-8cf4-dc56beb45026/air-jordan-3-retro-craft-ivory-mens-shoes-R60dgp.png",
+            "thumbnails": [ 
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d484c20c-9dd1-45b9-9a73-7a2b4aee743b/air-jordan-3-retro-craft-ivory-mens-shoes-R60dgp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6204cf92-f776-43a7-9424-450df680a9aa/air-jordan-3-retro-craft-ivory-mens-shoes-R60dgp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5038cd86-ed85-4c90-aefe-096e7632d70f/air-jordan-3-retro-craft-ivory-mens-shoes-R60dgp.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f9674acc-236e-4865-913a-bf6f11053d9e/air-jordan-3-retro-craft-ivory-mens-shoes-R60dgp.png"            
+            ]
+        },
+        {
+            "id": 6,
+            "name" :"Jumpman MVP",
+            "price" :165,
+            "description":"We didn't invent the remix—but considering the material we get to sample, this one's a no-brainer. We took elements from the AJ6, 7 and 8, making them into a completely new shoe that celebrates MJ's first 3-peat championship run. With leather, textile and nubuck details, these sneakers honor one legacy while encouraging you to cement your own.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c30a54ab-da3f-4815-8e6a-b53dd7507fe4/jumpman-mvp-mens-shoes-gzmjDz.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/811defb2-3428-4e40-a23f-aa4a6a4d5daa/jumpman-mvp-mens-shoes-gzmjDz.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/94720245-b0aa-4efe-bc30-c5f829317e7f/jumpman-mvp-mens-shoes-gzmjDz.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7e4e0bf3-590f-40a1-8d8f-66c27269c92e/jumpman-mvp-mens-shoes-gzmjDz.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a3d0e261-cd9e-438d-905e-5c1dbc81b6c9/jumpman-mvp-mens-shoes-gzmjDz.png"
+            ]
+        },
+        {
+            "id": 7,
+            "name" :"Air Jordan 13 Retro",
+            "price": 200,
+
+            "description":"Throw it back with the AJ13, the shoe originally worn by MJ during his sixth championship season. A new colorway refreshes the legend with premium White tumbled leather and Blue Grey synthetic suede. Iconic details abound, like the unmistakable quilted overlay, panther paw-inspired outsole and holographic eye. Finishing it off, hits of Yellow Ochre make the classic branding pop.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bdd61c57-d041-49c8-94a6-4930c239c33c/air-jordan-13-retro-blue-grey-mens-shoes-TBQf23.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/592ed0cd-6d59-4274-8d0b-8bed77aed03d/air-jordan-13-retro-blue-grey-mens-shoes-TBQf23.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fd6f0a37-c1f7-4f96-ac18-562382842250/air-jordan-13-retro-blue-grey-mens-shoes-TBQf23.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9118fe16-17b2-4c6c-9590-cce51f9dc278/air-jordan-13-retro-blue-grey-mens-shoes-TBQf23.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5d258067-fb86-4398-b257-305d32377d29/air-jordan-13-retro-blue-grey-mens-shoes-TBQf23.png"
+            ]
+        },
+        {
+            "id": 8,
+            "name" :"LeBron NXXT Gen",
+            "price":170,
+            "description":"Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel fast, low to the court and assured in the LeBron NXXT Gen. We specifically tailored it to meet the demands of today’s fast-paced game, so that you can stay ahead of the opposition with your speed in all directions.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/250249a2-63aa-4060-bd5b-7c5a05904abf/lebron-nxxt-gen-ampd-ips-basketball-shoes-CH9Kwr.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e8bed073-6afc-40c2-a69f-872f02374497/lebron-nxxt-gen-ampd-ips-basketball-shoes-CH9Kwr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d4ed13ca-2926-4177-88a3-41a79f47c049/lebron-nxxt-gen-ampd-ips-basketball-shoes-CH9Kwr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a289379f-4b6a-45a9-8f27-98e149514249/lebron-nxxt-gen-ampd-ips-basketball-shoes-CH9Kwr.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/082c09ed-81ef-48d4-9642-052303dd95eb/lebron-nxxt-gen-ampd-ips-basketball-shoes-CH9Kwr.png"
+            ]
+        },
+        {
+            "id": 9,
+            "name" :"Air Jordan 11 CMFT Low",
+            "price": 130,
+            "description":"Brilliant and bold, the Air Jordan 11 CMFT Low is inspired by one of MJ's most legendary sneakers. The lace loops and mud guard pull in distinct elements from the AJ11, while lightweight foam and Zoom Air cushioning make every step comfortable. And the padded collar and tongue give it a snug, plush feel you'll want to wear all day.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/97f16c08-4775-4510-8128-787bc88d9496/air-jordan-11-cmft-low-womens-shoes-kk9grs.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4ebf2679-3f0b-4e7d-9d76-ca92f01b593f/air-jordan-11-cmft-low-womens-shoes-kk9grs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5e1902ed-804f-49fd-bc73-8300ce43eb68/air-jordan-11-cmft-low-womens-shoes-kk9grs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/03594a23-038a-4898-a2a9-80d334ef406b/air-jordan-11-cmft-low-womens-shoes-kk9grs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a8dd3215-b351-4de0-965d-9871afa43d77/air-jordan-11-cmft-low-womens-shoes-kk9grs.png"
+            ]
+        },
+        {
+            "id": 10,
+            "name" :"Nike Calm",
+            "price":50,
+            "description":"Enjoy a calm, comfortable experience—no matter where your day off takes you. Made with soft yet responsive foam, these lightweight slides are easy to style and easy to pack. While the water-friendly design makes them ideal for the beach or pool, the minimalist look is elevated enough to wear around in the city. Time to slide in and check out.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5dcf6753-cfde-4a58-a81d-df4f699acbbb/calm-mens-slides-4hQGBf.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/29c59e33-717f-4558-8136-ffb1983e0237/calm-mens-slides-4hQGBf.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/10911bbc-69ef-4bba-a879-446ea7db1c4b/calm-mens-slides-4hQGBf.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5240c169-16dc-4e60-b4b7-b5694eb13ab4/calm-mens-slides-4hQGBf.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0897903f-9088-447b-83ff-2de89370e67e/calm-mens-slides-4hQGBf.png"
+            ]
+        },
+        {
+            "id": 11,
+            "name" :"Nike Offcourt (Pittsburgh Pirates)",
+            "price":40,
+            "description":"Rep the Pittsburgh Pirates all the way down to your feet in these Offcourt slides. A cushioned synthetic leather strap features your team's logo, while an innovative foam midsole makes this slide so comfy, you’ll never want to take it off.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/12939568-d1cc-4e5d-9458-d1d9e7493347/offcourt-pittsburgh-pirates-offcourt-slides-hF2dhm.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6bd6d339-78de-42a8-b5f1-a6a83fc9806d/offcourt-pittsburgh-pirates-offcourt-slides-hF2dhm.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b86dd1f8-0030-479d-b231-b7dfc26e6972/offcourt-pittsburgh-pirates-offcourt-slides-hF2dhm.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b94625a5-1e37-4196-8c2e-b86020cd20ff/offcourt-pittsburgh-pirates-offcourt-slides-hF2dhm.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2f7709ab-c528-4c74-8bf9-411f42a9a563/offcourt-pittsburgh-pirates-offcourt-slides-hF2dhm.png"
+            ]
+        },
+        {
+            "id": 12,
+            "name" :"Nike Victori One",
+            "price":60,
+            "description":"Enjoy a calm, comfortable experience—no matter where your day off takes you. Made with soft yet responsive foam, these lightweight mules are easy to style and easy to pack. While the water-friendly design makes them ideal for the beach or pool, the minimalist look is elevated enough to wear around in the city. Plus, a removable heel strap adjusts for the perfect fit. Time to slide in and check out.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/27438d89-0287-4afa-a81f-8e2cbd4f6ca4/calm-mens-mules-m5tTKn.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8d3cb783-e192-489c-ae0c-9ee04da7b13f/calm-mens-mules-m5tTKn.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/de3f2b3a-74b4-47c6-9410-b706237d4f8d/calm-mens-mules-m5tTKn.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/afd5d894-26c6-4ea3-b090-401b3877f4fd/calm-mens-mules-m5tTKn.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5fbc1bb-0b79-4c6d-bb84-580eebe80267/calm-mens-mules-m5tTKn.png"
+            ]
+        },
+        {
+            "id": 13,
+            "name" :"Air Jordan Mule",
+            "price":110,
+            "description":"Slide into pre- and post-match paradise, whether you’re sailing to the 19th hole after a career low or ramping up for the round ahead in the all-new Jordan 1 G Mule. It’s easily accessible, eye-popping eccentric and complete with timeless Jordan ethos and comfort.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/078a46f8-7eb4-4a17-ab77-0d32c1497330/air-jordan-mule-golf-shoes-BBsgPK.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f3d23fd7-1642-4d7a-8a23-b96ff2a5c370/air-jordan-mule-golf-shoes-BBsgPK.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9d5833ea-4aff-4ee2-ad3b-f341229b178e/air-jordan-mule-golf-shoes-BBsgPK.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/36eb2ac6-dd8b-4152-a92a-a51b4564963d/air-jordan-mule-golf-shoes-BBsgPK.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/09fababe-eb5a-45cf-9177-75ddc13c6bdd/air-jordan-mule-golf-shoes-BBsgPK.png"
+            ]
+        },
+        {
+            "id": 14,
+            "name" :"Jordan Play",
+            "price":29.97,
+            "description":"Get all the underfoot support you need with these essential slides. Enjoy the cushioning of thick, lightweight foam for beach days or post-game hangouts.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5390fcb2-6b5c-4fea-bc09-33bcfd8e7a3d/jordan-play-mens-slides-GfChd3.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8d913905-4df8-4443-8146-162202b66271/jordan-play-mens-slides-GfChd3.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cf9941ea-2d9f-41d9-86ea-5031a6a1a428/jordan-play-mens-slides-GfChd3.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cee3fc9c-a3d2-4159-83fa-bc57ef2e7745/jordan-play-mens-slides-GfChd3.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4f85ec5a-7ee4-415d-9ebf-88b3fe2be327/jordan-play-mens-slides-GfChd3.png"
+            ]
+        },
+        {
+            "id": 15,
+            "name" :"Nike Air More Uptempo '96",
+            "price":85,
+            "description":"Keeping the exaggerated, graffiti-styled AIR graphics and full-length Nike Air cushioning you love from the original, your favorite hoops look gets transformed into an easy on/easy off slide. Pairing '90s style with summertime comfort, its plush strap, airy perforations and soft foam make it a perfect choice—courtside, beachside and anywhere in between.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b04ce0c8-637e-451c-b946-ef13422e3c6a/air-more-uptempo-96-mens-shoes-zpkSSs.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/30707017-6950-4d9e-bcfb-e5fe01336a9d/air-more-uptempo-96-mens-shoes-zpkSSs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2f1a6914-f2d8-4368-9846-38cf75c29e93/air-more-uptempo-96-mens-shoes-zpkSSs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c998323-96e9-4168-8841-492b97162972/air-more-uptempo-96-mens-shoes-zpkSSs.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abed1fe3-4c5a-4a8e-82c6-95f3610a61a0/air-more-uptempo-96-mens-shoes-zpkSSs.png"
+            ]
+        },
+        {
+            "id": 16,
+            "name" :"Nike Cortez",
+            "price":90,
+            "description":"One word: tradition. From heritage running to fashion phenom, its retro appeal, sponge-soft midsole and seesaw detailing deliver decade after decade. This iteration combines durable suede and easy-to-style colors for a vintage vibe.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9af0210f-7c3f-44b7-aee6-d8fe50720f78/cortez-mens-shoes-SxhPXX.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9159c6bf-a95c-4218-b797-3ea8c31f6383/cortez-mens-shoes-SxhPXX.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/512e5dbf-c670-4484-892c-552d46348401/cortez-mens-shoes-SxhPXX.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f2c6cebe-5702-47a2-8bea-7644bbf295a5/cortez-mens-shoes-SxhPXX.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9d22f252-c60d-47f8-bf09-1ed3584590ed/cortez-mens-shoes-SxhPXX.png"
+            ]
+        },
+        {
+            "id": 17,
+            "name" :"Nike SB Chron 2 Canvas",
+            "price":48.97,
+            "description":"The Nike SB Chron 2 Canvas is the newest member of the Chron family. The revamped design includes a reshaped collar and heel for an improved fit—all while maintaining the comfort and performance you expect from Nike SB.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/90973671-ebf4-4629-8a51-9372dde4fc3d/sb-chron-2-canvas-skate-shoes-VmcNLG.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0c080021-8fde-4be9-81b0-a2531faef499/sb-chron-2-canvas-skate-shoes-VmcNLG.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6b1bcef3-f167-44b4-93b6-97c4439cbd7c/sb-chron-2-canvas-skate-shoes-VmcNLG.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f3b1e097-f525-44fe-bf75-dc81aad5cb58/sb-chron-2-canvas-skate-shoes-VmcNLG.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9bb3821e-9438-40b9-8c40-1b4e446a70e8/sb-chron-2-canvas-skate-shoes-VmcNLG.png"
+            ]
+        },
+        {
+            "id": 18,
+            "name" :"Nike Air Max 95 Premium",
+            "price":99.97,
+            "description":"The Nike Air Max 95 made its mark as the first shoe to include visible Nike Air cushioning in the forefoot. The Nike Air Max 95 Premium Men's Shoe updates the iconic design with premium materials for an elevated look.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7aa8333f-3e9a-4907-8334-0017d963f5d9/air-max-95-premium-mens-shoe-4Nzc1w.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/da206033-d5a8-4687-a838-15e6ae7db3e7/air-max-95-premium-mens-shoe-4Nzc1w.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ea6208f0-3ba5-4d6c-a950-03f43ccc126c/air-max-95-premium-mens-shoe-4Nzc1w.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dade1ddd-d868-41d8-9ed4-4b6e3bf07b4e/air-max-95-premium-mens-shoe-4Nzc1w.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c5d707e-a975-45f0-b474-3d036d1194f8/air-max-95-premium-mens-shoe-4Nzc1w.png"
+            ]
+        },
+        {
+            "id": 19,
+            "name" :"Jordan True Flight",
+            "price":150,
+            "description":"The Jordan True Flight takes design elements from the AJ7 to create a sneaker that brings a classic performance look to streetwear. It has premium leather structured around an internal sleeve for a secure fit that's easy to get on and off.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bd527d98-0231-4293-8f55-f96a0908873e/jordan-true-flight-mens-shoes-ODLzlq.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/551ecd3c-a160-41fe-92c2-7c68d07c248e/jordan-true-flight-mens-shoes-ODLzlq.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1ba7f724-15a8-4f84-8f4e-600c15e421c9/jordan-true-flight-mens-shoes-ODLzlq.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3114ab13-7477-4109-9b18-4229f454c0de/jordan-true-flight-mens-shoes-ODLzlq.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ea2ec812-f3d5-4253-8fc0-9c7cc96994be/jordan-true-flight-mens-shoes-ODLzlq.png"
+            ]
+        },
+        {
+            "id": 20,
+            "name" :"Nike Air Max Plus",
+            "price":157.97,
+            "description":"The best way to celebrate 25 years of the Air Max Plus? With you, of course. While the breathable knit upper, wavy design lines and gradient colors stay true to the original, subtle details and high-energy hues pay homage to fan-favorite iterations. Legendary Air Max cushioning offers premium stability and cushioning straight out of the box, which sets you up with high-tech comfort everyone can see.",
+            "brand" : "Nike shoe",
+            "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/582b925c-1342-4391-ae01-7300e2340f84/air-max-plus-big-kids-shoes-MRNTJs.png",
+            "thumbnails": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d51b203-9651-4539-8835-34c3ed4ba0cd/air-max-plus-big-kids-shoes-4jCb46.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4925790b-4feb-4252-978b-13254155f32b/air-max-plus-big-kids-shoes-4jCb46.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aac8e4bf-b1b0-4c9c-b5d7-6fd3f1028123/air-max-plus-big-kids-shoes-4jCb46.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9ac2aa97-acab-47e5-97a3-16ee1fb2b54a/air-max-plus-big-kids-shoes-4jCb46.png"
+            ]
+        }
+    ]
+}
